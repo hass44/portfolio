@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Hassaan Ibrahim # your name (or website title) here
+logo: "images/1637297105896.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Enthusiast Data Scientist with 1 year of experience working with 
   <br><br>
-  Second description 
+  Junior year Computer Science student at <a href="http://www.pieas.edu.pk/">PIEASe</a>. Currently looking for a summer internship. Reach out to me at <a href="hassaanibrahim9@gmail.com">hassaanibrahim9@gmail.com</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hassaanibrahim/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
