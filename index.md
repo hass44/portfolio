@@ -6,7 +6,7 @@
 
 With 5% of any country's population experiencing hearing impairment, there is a crucial need for a national sign language interpreter. To address this, I've developed a PSL Interpreter that employs computer vision to convert sign language into text. Manually anotated data, extracted keypoints using MediaPipe, and used a LSTM based architecture for building the model.
 
-[View code on Github](github.com/hass44/PSL_Recognition)
+<a href="https://github.com/hass44/PSL_Recognition">View code on Github</a>
 
 <img src="images/PSL.jpg?raw=true"/>
 
