@@ -1,14 +1,19 @@
-## Portfolio
+## Selected projects
 
 ---
 
-### Category Name 1 
-
-[Pakistan Sign Language Recognition using Computer Vision](github.com/hass44/PSL_Recognition)
+### Pakistan Sign Language Recognition using Computer Vision
 
 With 5% of any country's population experiencing hearing impairment, there is a crucial need for a national sign language interpreter. To address this, I've developed a PSL Interpreter that employs computer vision to convert sign language into text. Manually anotated data, extracted keypoints using MediaPipe, and used a LSTM based architecture for building the model.
 
+[View code on Github](github.com/hass44/PSL_Recognition)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <img src="images/PSL.jpg?raw=true"/>
+
+
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
