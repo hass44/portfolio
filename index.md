@@ -8,6 +8,8 @@ With 5% of any country's population experiencing hearing impairment, there is a 
 
 [View code on Github](github.com/hass44/PSL_Recognition)
 
+<img src="images/PSL.jpg?raw=true"/>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -15,7 +17,7 @@ With 5% of any country's population experiencing hearing impairment, there is a 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="images/PSL.jpg?raw=true"/>
+
 
 
 
